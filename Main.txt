@@ -1,1 +1,4 @@
 Main Text file
+
+메인 텍스트 파일에 내용 i 키 늘러서 
+insert 활성화 후 esc -> : -> wq 
